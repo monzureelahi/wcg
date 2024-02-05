@@ -64,6 +64,6 @@ $ curl -H "Content-Type: application/json" -d '{"text":"ths is a really really r
 Use this setup
 
 aws_access_key_id = XKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = xJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+aws_secret_access_key = abxJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
 ## Test Text added by Monzur
